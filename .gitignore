@@ -9,6 +9,7 @@
 **/.DS_Store
 **.log
 
+!wp-config.php
 !wp-content/
 !wp-content/index.php
 !wp-content/plugins/index.php
