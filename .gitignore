@@ -4,6 +4,7 @@
 # Whitelist some files
 !.gitignore
 !README.md
+!.lando.yml
 
 # Ignore all files named .DS_Store or ending with .log
 **/.DS_Store
